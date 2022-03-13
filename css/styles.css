@@ -1,0 +1,112 @@
+/*******************************************CLASS SELECTORE*******************************************/
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+.avatar-image{
+  width:1.6rem;
+  height:1.6rem;
+  margin:1.5px 0 0 1.5px;
+}
+.av-div{
+  background-color: white;
+  border-radius: 100%;
+  display:inline-block;
+  height:1.8rem;
+  margin:0 0 1.5rem 7%;
+  position:relative;
+  width:1.8rem;
+}
+.card-container{
+  background-color:hsl(216, 50%, 16%);
+  border-radius: 1.3rem;
+  height:80%;
+  margin:5rem auto;
+  width:20%;
+
+}
+.clock-image{
+  display:inline;
+  height:1rem;
+  margin:2rem 0 0 31%;
+  position:relative;
+  left: 0px;
+  top: 0.1875rem;
+
+}
+.eq-image{
+  border-radius:1.3rem;
+  height:30%;
+  width:90%;
+  padding:5% 0 0 5%;
+}
+.eth-image{
+  display:inline;
+  height:1rem;
+  left: 0;
+  margin:0.9375rem 0 0 1.0625rem;
+  position:relative;
+  top: 0.125rem;
+}
+.left-align{
+  color:cyan;
+  display:inline;
+  font-size:0.75rem;
+  font-weight: bold;
+  margin-left: 0.4375rem;
+  text-align:left;
+}
+.line{
+  color:hsl(215, 51%, 70%);
+  display:inline-block;
+  font-size: 0.8125rem;
+  margin-left:5%;
+  text-align:left;
+  width:90%;
+}
+.right-align{
+  color:hsl(215, 51%, 70%);
+  display:inline;
+  font-size:0.8125rem;
+  font-weight: normal;
+  margin-left:0.5%;
+  text-align:right;
+}
+.tag-line{
+  bottom: 10px;
+  color:hsl(215, 51%, 70%);
+  display:inline-block;
+  font-size:0.75rem;
+  left: 0.625rem;
+  position:relative;
+}
+.white-font:hover{
+  color:cyan;
+}
+.white-font{
+  color:white;
+}
+/*******************************************TAG SELECTORE*******************************************/
+body{
+  background-color:hsl(217, 54%, 11%);
+  font-family: 'Outfit', sans-serif;
+
+}
+
+h2{
+  color:white;
+  font-weight: normal;
+  font-size:1.125rem;
+  text-align:left;
+  margin-left:5%;
+}
+h2:hover{
+  color:cyan;
+}
+hr{
+  width:90%;
+  border-style:solid;
+  border-width:0.0625rem 0 0 0;
+  border-color:hsl(215, 51%, 70%);
+  margin-top:1.2rem;
+  margin-bottom:1.2rem;
+}
